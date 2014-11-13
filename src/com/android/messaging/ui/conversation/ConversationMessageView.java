@@ -74,8 +74,8 @@ import com.android.messaging.util.PhoneUtils;
 import com.android.messaging.util.UiUtils;
 import com.android.messaging.util.YouTubeUtil;
 import com.cyanogen.lookup.phonenumber.response.LookupResponse;
-import com.cyanogenmod.messaging.lookup.LookupProviderManager.LookupProviderListener;
-import com.cyanogenmod.messaging.ui.AttributionContactIconView;
+import com.vrtoxin.messaging.lookup.LookupProviderManager.LookupProviderListener;
+import com.vrtoxin.messaging.ui.AttributionContactIconView;
 import com.google.common.base.Predicate;
 
 import java.util.Collections;

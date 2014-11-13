@@ -36,8 +36,8 @@ import com.android.messaging.datamodel.data.PersonItemData.PersonItemDataListene
 import com.android.messaging.util.AccessibilityUtil;
 import com.android.messaging.util.UiUtils;
 import com.cyanogen.lookup.phonenumber.response.LookupResponse;
-import com.cyanogenmod.messaging.lookup.LookupProviderManager.LookupProviderListener;
-import com.cyanogenmod.messaging.ui.AttributionContactIconView;
+import com.vrtoxin.messaging.lookup.LookupProviderManager.LookupProviderListener;
+import com.vrtoxin.messaging.ui.AttributionContactIconView;
 
 /**
  * Shows a view for a "person" - could be a contact or a participant. This always shows a

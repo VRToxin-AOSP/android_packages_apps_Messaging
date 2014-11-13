@@ -44,7 +44,7 @@ import com.android.messaging.util.Assert;
 import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.ThreadUtil;
 import com.android.messaging.util.UiUtils;
-import com.cyanogenmod.messaging.ui.WebImageView;
+import com.vrtoxin.messaging.ui.WebImageView;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.util.HashSet;

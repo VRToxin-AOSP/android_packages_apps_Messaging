@@ -47,8 +47,8 @@ import com.android.messaging.util.PhoneUtils;
 import com.android.messaging.util.Trace;
 import com.android.messaging.util.BlacklistObserver;
 import com.android.messaging.util.BlacklistSync;
-import com.cyanogenmod.messaging.lookup.ILookupClient;
-import com.cyanogenmod.messaging.lookup.LookupProviderManager;
+import com.vrtoxin.messaging.lookup.ILookupClient;
+import com.vrtoxin.messaging.lookup.LookupProviderManager;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.io.File;

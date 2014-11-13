@@ -28,9 +28,9 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.android.messaging.BugleApplication;
-import com.cyanogenmod.messaging.lookup.LookupProviderManager.LookupProviderListener;
+import com.vrtoxin.messaging.lookup.LookupProviderManager.LookupProviderListener;
 import com.android.messaging.R;
-import com.cyanogenmod.messaging.ui.AttributionContactIconView;
+import com.vrtoxin.messaging.ui.AttributionContactIconView;
 import com.android.messaging.ui.UIIntents;
 import com.android.messaging.util.AccessibilityUtil;
 import com.cyanogen.lookup.phonenumber.response.LookupResponse;
