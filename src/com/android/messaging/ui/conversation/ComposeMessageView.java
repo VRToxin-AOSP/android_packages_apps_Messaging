@@ -73,7 +73,7 @@ import com.android.messaging.util.OsUtil;
 import com.android.messaging.util.UiUtils;
 import com.android.messaging.util.UnicodeFilter;
 
-import com.cyanogenmod.messaging.util.PrefsUtils;
+import com.vrtoxin.messaging.util.PrefsUtils;
 
 import java.util.Collection;
 import java.util.List;
