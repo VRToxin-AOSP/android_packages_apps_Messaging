@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.messaging.util;
+package com.vrtoxin.messaging.util;
 
 import android.content.Context;
 import com.android.messaging.Factory;
