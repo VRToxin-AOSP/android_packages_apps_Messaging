@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.messaging.ui;
+package com.vrtoxin.messaging.ui;
 
 import android.content.Context;
 import android.util.AttributeSet;
